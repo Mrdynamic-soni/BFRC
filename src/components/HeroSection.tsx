@@ -16,7 +16,7 @@ const HeroSection = () => (
         Call Us
       </a>
       <a
-        href="https://wa.me/9670132691"
+        href="https://wa.me/+919670132691"
         className="bg-accent text-white px-6 py-2 rounded shadow-md hover:bg-accent/80"
       >
         WhatsApp
