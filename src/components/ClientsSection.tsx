@@ -7,10 +7,10 @@ const ClientsSection = () => (
     </h2>
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
       <blockquote className="bg-light p-6 rounded shadow-md">
-        "Excellent service! Fixed my fridge in no time." - John D.
+        &quot;Excellent service! Fixed my fridge in no time.&quot; - John D.
       </blockquote>
       <blockquote className="bg-light p-6 rounded shadow-md">
-        "Affordable and reliable AC installation." - Mary K.
+        &quot;Affordable and reliable AC installation.&quot; - Mary K.
       </blockquote>
     </div>
   </section>
